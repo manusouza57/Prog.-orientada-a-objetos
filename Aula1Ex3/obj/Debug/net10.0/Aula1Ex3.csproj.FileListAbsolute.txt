@@ -1,0 +1,14 @@
+C:\Projetos\POO\Aula1Ex3\bin\Debug\net10.0\Aula1Ex3.exe
+C:\Projetos\POO\Aula1Ex3\bin\Debug\net10.0\Aula1Ex3.deps.json
+C:\Projetos\POO\Aula1Ex3\bin\Debug\net10.0\Aula1Ex3.runtimeconfig.json
+C:\Projetos\POO\Aula1Ex3\bin\Debug\net10.0\Aula1Ex3.dll
+C:\Projetos\POO\Aula1Ex3\bin\Debug\net10.0\Aula1Ex3.pdb
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\Aula1Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\Aula1Ex3.AssemblyInfoInputs.cache
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\Aula1Ex3.AssemblyInfo.cs
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\Aula1Ex3.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\Aula1Ex3.dll
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\refint\Aula1Ex3.dll
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\Aula1Ex3.pdb
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\Aula1Ex3.genruntimeconfig.cache
+C:\Projetos\POO\Aula1Ex3\obj\Debug\net10.0\ref\Aula1Ex3.dll

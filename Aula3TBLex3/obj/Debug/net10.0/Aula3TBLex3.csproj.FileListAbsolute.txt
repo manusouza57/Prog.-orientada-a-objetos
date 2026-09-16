@@ -1,0 +1,14 @@
+C:\Projetos\POO\Aula3TBLex3\bin\Debug\net10.0\Aula3TBLex3.exe
+C:\Projetos\POO\Aula3TBLex3\bin\Debug\net10.0\Aula3TBLex3.deps.json
+C:\Projetos\POO\Aula3TBLex3\bin\Debug\net10.0\Aula3TBLex3.runtimeconfig.json
+C:\Projetos\POO\Aula3TBLex3\bin\Debug\net10.0\Aula3TBLex3.dll
+C:\Projetos\POO\Aula3TBLex3\bin\Debug\net10.0\Aula3TBLex3.pdb
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\Aula3TBLex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\Aula3TBLex3.AssemblyInfoInputs.cache
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\Aula3TBLex3.AssemblyInfo.cs
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\Aula3TBLex3.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\Aula3TBLex3.dll
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\refint\Aula3TBLex3.dll
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\Aula3TBLex3.pdb
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\Aula3TBLex3.genruntimeconfig.cache
+C:\Projetos\POO\Aula3TBLex3\obj\Debug\net10.0\ref\Aula3TBLex3.dll

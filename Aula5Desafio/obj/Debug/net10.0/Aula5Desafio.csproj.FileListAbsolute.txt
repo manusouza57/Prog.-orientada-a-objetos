@@ -1,0 +1,14 @@
+C:\Projetos\poo\Aula5Desafio\bin\Debug\net10.0\Aula5Desafio.exe
+C:\Projetos\poo\Aula5Desafio\bin\Debug\net10.0\Aula5Desafio.deps.json
+C:\Projetos\poo\Aula5Desafio\bin\Debug\net10.0\Aula5Desafio.runtimeconfig.json
+C:\Projetos\poo\Aula5Desafio\bin\Debug\net10.0\Aula5Desafio.dll
+C:\Projetos\poo\Aula5Desafio\bin\Debug\net10.0\Aula5Desafio.pdb
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\Aula5Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\Aula5Desafio.AssemblyInfoInputs.cache
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\Aula5Desafio.AssemblyInfo.cs
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\Aula5Desafio.csproj.CoreCompileInputs.cache
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\Aula5Desafio.dll
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\refint\Aula5Desafio.dll
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\Aula5Desafio.pdb
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\Aula5Desafio.genruntimeconfig.cache
+C:\Projetos\poo\Aula5Desafio\obj\Debug\net10.0\ref\Aula5Desafio.dll

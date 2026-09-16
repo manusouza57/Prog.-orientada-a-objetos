@@ -1,0 +1,14 @@
+C:\Projetos\POO\Aula2ex2\bin\Debug\net10.0\Aula2ex2.exe
+C:\Projetos\POO\Aula2ex2\bin\Debug\net10.0\Aula2ex2.deps.json
+C:\Projetos\POO\Aula2ex2\bin\Debug\net10.0\Aula2ex2.runtimeconfig.json
+C:\Projetos\POO\Aula2ex2\bin\Debug\net10.0\Aula2ex2.dll
+C:\Projetos\POO\Aula2ex2\bin\Debug\net10.0\Aula2ex2.pdb
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\Aula2ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\Aula2ex2.AssemblyInfoInputs.cache
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\Aula2ex2.AssemblyInfo.cs
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\Aula2ex2.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\Aula2ex2.dll
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\refint\Aula2ex2.dll
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\Aula2ex2.pdb
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\Aula2ex2.genruntimeconfig.cache
+C:\Projetos\POO\Aula2ex2\obj\Debug\net10.0\ref\Aula2ex2.dll
