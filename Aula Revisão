@@ -1,0 +1,94 @@
+1
+a. Abstração
+b. Encapsulamento
+c. Herança
+d. Polimorfismo
+2
+a. 1) Qualquer código pode colocar um valor inválido no saldo (ex.: conta.saldo = -50000). 2) A classe não tem controle sobre como o saldo é alterado, porque ele é public.
+
+b. O saldo vira private, e o acesso passa por métodos controlados:
+
+csharp
+public class Conta
+{
+    private double saldo;
+
+    public void Depositar(double valor)
+    {
+        if (valor > 0)
+        {
+            saldo += valor;
+        }
+    }
+
+    public double GetSaldo()
+    {
+        return saldo;
+    }
+}
+Assim, o código externo não mexe direto no saldo. Só consegue alterá-lo pelo Depositar, que valida o valor, e ler pelo GetSaldo.
+
+3
+a. SetNome
+b. GetNome
+c. this.nome é o atributo da classe e nome é o parâmetro do método. A linha guarda o valor recebido no atributo do objeto.
+
+4
+a. O get lê (retorna) o valor do preço.
+b. O set altera o valor do preço.
+c. O value é o valor que está sendo atribuído à propriedade.
+d. Nada muda. Como -10 não é maior ou igual a 0, o set não altera o preço e ele continua com o valor anterior.
+
+5
+a. Herança: Carro é um Veiculo.
+b. Composição: Carro tem um Motor.
+c. Herança: Professor é uma Pessoa.
+d. Composição: Pedido tem Produto(s).
+e. Herança: Gato é um Animal.
+
+6
+a. Porque o virtual permite que as classes derivadas substituam o comportamento desse método.
+b. Porque o override indica que Cachorro está substituindo a implementação herdada de Animal.
+c. Polimorfismo.
+
+7
+a. Não. Uma classe abstrata não pode ser instanciada diretamente, ela serve apenas de base para outras classes.
+b. Sim. O método Parar() é um exemplo de método concreto, com implementação.
+c. Precisa implementá-lo usando override: public override void LigarMotor().
+
+8
+Porque a interface define quais métodos uma classe deve ter, sem dizer como fazem. Quem implementa a interface é obrigado a cumprir tudo o que ela determina, como em um contrato.
+
+9
+Duas diferenças:
+
+A classe abstrata pode ter atributos, métodos concretos e métodos abstratos. A interface define apenas o contrato.
+Uma classe só herda de uma classe abstrata, mas pode implementar várias interfaces.
+a. Classe abstrata
+b. Interface
+c. Interface
+d. Classe abstrata
+
+10
+a. a vale 10.
+b. p1.Nome é "Carlos".
+c. int é tipo por valor: b = a copia o valor, então as variáveis são independentes. Pessoa é tipo por referência: p2 = p1 copia a referência, então as duas apontam para o mesmo objeto, e alterar por uma muda para a outra.
+
+11
+a. Implícita
+b. Explícita (casting)
+c. Por método
+d. Implícita
+e. Explícita (casting)
+
+12
+a. Será exibido João.
+
+b. Na primeira atribuição (p.Nome = "João"), o set é executado, value é "João", e como é diferente de vazio, o nome é alterado. Na segunda (p.Nome = ""), o set é executado, value é vazio, a condição é falsa e o nome não muda, continuando "João".
+
+c. Encapsulamento.
+
+ 13
+a. Herança: public class Carro : Veiculo
+b. Composição: private Motor motor; (Carro tem um Motor)
+c. Polimorfismo: o método Acelerar(), que é virtual em Veiculo e sobrescrito com override em Carro.
