@@ -1,0 +1,21 @@
+1- Polimorfismo é a capacidade de uma mesma operação ter comportamentos diferentes dependendo do objeto que a executa.
+
+2- O virtual marca um método da classe base como substituível, permitindo que as classes derivadas mudem o comportamento dele.
+
+3- O override substitui, na classe derivada, a implementação herdada de um método virtual ou abstract da classe base.
+
+4- Executa a implementação do objeto real (a da classe derivada), e não a do tipo da referência.
+
+5- Herdar de uma classe representa especialização ("Carro é um Veiculo") e reaproveita código. Implementar uma interface representa um contrato, que diz o que a classe deve ter, mas não como fazer.
+
+6- Porque ela é só um modelo base e pode ter métodos abstratos sem implementação, então não faz sentido criar um objeto dela.
+
+7- O método concreto tem implementação (corpo). O método abstrato só declara a operação, sem corpo, e as classes derivadas concretas são obrigadas a implementá-lo.
+
+8- O virtual tem implementação padrão e a sobrescrita é opcional. O abstract não tem implementação e a sobrescrita é obrigatória nas classes concretas derivadas.
+
+9- Porque Gerente e Programador herdam de Funcionario, ou seja, são Funcionario, e um objeto derivado pode ser guardado no tipo da classe base.
+
+10- Evitar vários if/else por tipo e deixar o sistema mais fácil de manter e expandir, já que dá para criar novas classes sem alterar o código existente.
+
+Pergunta para pensar (Exercício 1): A lista pode ser do tipo Pagamento porque Pix, CartaoCredito e BoletoBancario herdam de Pagamento, então cada uma é um Pagamento.
