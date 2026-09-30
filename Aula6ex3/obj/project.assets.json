@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\poo\\Aula6ex3\\Aula6ex3.csproj",
+      "projectUniqueName": "c:\\Projetos\\POO\\Aula6ex3\\Aula6ex3.csproj",
       "projectName": "Aula6ex3",
-      "projectPath": "C:\\Projetos\\poo\\Aula6ex3\\Aula6ex3.csproj",
+      "projectPath": "c:\\Projetos\\POO\\Aula6ex3\\Aula6ex3.csproj",
       "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\poo\\Aula6ex3\\obj\\",
+      "outputPath": "c:\\Projetos\\POO\\Aula6ex3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

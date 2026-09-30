@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\poo\\Aula5Desafio\\Aula5Desafio.csproj": {}
+    "c:\\Projetos\\POO\\Aula5Desafio\\Aula5Desafio.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\poo\\Aula5Desafio\\Aula5Desafio.csproj": {
+    "c:\\Projetos\\POO\\Aula5Desafio\\Aula5Desafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\poo\\Aula5Desafio\\Aula5Desafio.csproj",
+        "projectUniqueName": "c:\\Projetos\\POO\\Aula5Desafio\\Aula5Desafio.csproj",
         "projectName": "Aula5Desafio",
-        "projectPath": "C:\\Projetos\\poo\\Aula5Desafio\\Aula5Desafio.csproj",
+        "projectPath": "c:\\Projetos\\POO\\Aula5Desafio\\Aula5Desafio.csproj",
         "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\poo\\Aula5Desafio\\obj\\",
+        "outputPath": "c:\\Projetos\\POO\\Aula5Desafio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
